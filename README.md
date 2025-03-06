@@ -8,9 +8,6 @@ This project is a full-stack Task Management System where users can register, lo
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
 - [Running the Application](#running-the-application)
-- [Testing](#testing)
-- [Advanced Notes](#advanced-notes)
-- [License](#license)
 
 ## Features
 
